@@ -27,9 +27,9 @@ It produces a master sheet and a pivot table summarizing total education sector 
 
 ## 🏗️ Project Structure
 
-- **Corey J Burbio Assessment.ipynb** — Main notebook for downloading Excel files using Playwright.
-- **Corey J Assessment Folder** — Folder location where README, documentation, and Excel files are saved.
-- **Burbio Assessment Corey J Spreadsheet** — Google Sheets file where data is imported, consolidated, and analyzed.
+- **grant-funding-pipeline.ipynb** — Main notebook for downloading Excel files using Playwright.
+- **Assessment Folder** — Folder location in google drive where README, documentation, and Excel files are saved.
+- **GrantFundingSpreadsheet.xlsx** — Google Sheets file where data is imported, consolidated, and analyzed.
 
 ---
 

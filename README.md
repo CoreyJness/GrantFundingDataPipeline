@@ -54,6 +54,7 @@ It produces a master sheet and a pivot table summarizing total education sector 
 function consolidateAllSheets() {
   // Your Apps Script code here
 }
+---
 
 This script:
 - Merges all state tabs into one Master tab.
@@ -62,6 +63,8 @@ This script:
 
 The pivot table summarizing total grant funding by state was created manually using Google Sheets' built-in pivot table tool.  
 It is saved in the "Pivot" sheet.
+
+---
 
 ---
 

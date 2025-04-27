@@ -5,18 +5,25 @@
 ---
 
 ## 📑 Table of Contents
-- 📚 [Overview](#overview)
-- 🏗️ [Project Structure](#project-structure)
-- ⚙️ [How to Run the Project](#how-to-run-the-project)
-  - 🖥️ [1. Run the Notebook on Google Colab](#1-run-the-notebook-on-google-colab)
-  - 📂 [2. Upload the Scraped Excel Files](#2-upload-the-scraped-excel-files)
-  - 📝 [3. Consolidate and Create the Pivot Table](#3-consolidate-and-create-the-pivot-table)
-- 📊 [Analysis](#analysis)
-- 🛠️ [Technologies Used](#technologies-used)
-- ✍️ [Author](#author)
 
+* 📚 [Overview](#overview-section)
+
+* 🏗️ [Project Structure](#structure-section)
+
+* ⚙️ [How to Run the Project](#how-to-run-section)
+
+  * 🖥️ [1. Run the Notebook on Google Colab](#run-notebook-section)
+
+  * 📂 [2. Upload the Scraped Excel Files](#upload-files-section)
+
+  * 📝 [3. Consolidate and Create the Pivot Table](#consolidate-pivot-section)
+
+* 📊 [Analysis](#analysis-section)
+
+* 🛠️ [Technologies Used](#technologies-section)
+
+* ✍️ [Author](#author-section)
 ---
-
 ## 📚 Overview
 
 This project automates the scraping, consolidation, and analysis of grant funding data from multiple Excel files.  

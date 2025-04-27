@@ -6,15 +6,15 @@
 
 ## 📑 Table of Contents
 
-* 📚 [Overview](#overview)
-* 🏗️ [Project Structure](#project-structure)
-* ⚙️ [How to Run the Project](#how-to-run-the-project)
-  * 🖥️ [1. Run the Notebook on Google Colab](#1-run-the-notebook-on-google-colab)
-  * 📂 [2. Upload the Scraped Excel Files](#2-upload-the-scraped-excel-files)
-  * 📝 [3. Consolidate and Create the Pivot Table](#3-consolidate-and-create-the-pivot-table)
-* 📊 [Analysis](#analysis)
-* 🛠️ [Technologies Used](#technologies-used)
-* ✍️ [Author](#author)
+* 📚 Overview
+* 🏗️ Project Structure
+* ⚙️ How to Run the Project
+  * 🖥️ 1. Run the Notebook on Google Colab
+  * 📂 2. Upload the Scraped Excel Files
+  * 📝 3. Consolidate and Create the Pivot Table
+* 📊 Analysis
+* 🛠️ Technologies Used
+* ✍️ Author
 
 ---
 

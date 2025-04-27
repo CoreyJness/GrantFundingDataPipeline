@@ -68,7 +68,6 @@ It is saved in the "Pivot" sheet.
 
 ---
 
----
 
 ## 📊 Analysis
 

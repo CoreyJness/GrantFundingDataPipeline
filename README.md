@@ -54,6 +54,7 @@ It produces a master sheet and a pivot table summarizing total education sector 
 function consolidateAllSheets() {
   // Your Apps Script code here
 }
+```
 ---
 
 This script:

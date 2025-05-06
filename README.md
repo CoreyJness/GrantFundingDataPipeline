@@ -21,7 +21,7 @@
 
 ## 🏗️ Project Structure
 
-- **[grant-funding-pipeline.ipynb](https://github.com/CoreyJness/GrantFundingDataPipeline/blob/main/grant-funding-pipeline.ipynb)** — Main notebook for retrieving Excel files using Playwright and google API.
+- **[Grant-funding-pipeline.ipynb](https://github.com/CoreyJness/GrantFundingDataPipeline/blob/main/grant-funding-pipeline.ipynb)** — Main notebook for retrieving Excel files using Playwright and google API.
 
 - **[Grant Funding Data Pipeline Folder](https://drive.google.com/drive/u/0/folders/1MnCNbtItDKzOJPJQcvJqJvAsIOfwNqGx)** — Folder location in google drive where README, documentation, and Excel files are saved.
 
@@ -33,7 +33,7 @@
 
 ### 🖥️ 1. Run the Notebook on Google Colab
 - Open Google Colab.
-- Upload or open the `grant-funding-pipeline.ipynb` notebook.
+- Upload or open the `Grant-funding-pipeline.ipynb` notebook.
 - Connect to a runtime (go to **Runtime > Connect**).
 - Install necessary libraries (Playwright, OpenPyXL, Google APIs) inside the notebook if prompted.
 - Run all cells (go to **Runtime > Run All**) or step through them.

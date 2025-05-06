@@ -21,7 +21,7 @@
 
 ## 🏗️ Project Structure
 
-- **grant-funding-pipeline.ipynb** — Main notebook for downloading Excel files using Playwright.
+- **[grant-funding-pipeline.ipynb](https://github.com/CoreyJness/GrantFundingDataPipeline/blob/main/grant-funding-pipeline.ipynb)** — Main notebook for retrieving Excel files using Playwright and google API.
 
 - **[Grant Funding Data Pipeline Folder](https://drive.google.com/drive/u/0/folders/1MnCNbtItDKzOJPJQcvJqJvAsIOfwNqGx)** — Folder location in google drive where README, documentation, and Excel files are saved.
 

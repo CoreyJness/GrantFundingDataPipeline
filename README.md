@@ -16,12 +16,6 @@
 * 🛠️ Technologies Used
 * ✍️ Author
 
----
-
-## 📚 Overview
-
-This project automates the scraping, consolidation, and analysis of grant funding data from multiple Excel files.  
-It produces a master sheet and a pivot table summarizing total education sector grant allocations by state.
 
 ---
 
@@ -48,25 +42,13 @@ It produces a master sheet and a pivot table summarizing total education sector 
 - The sheets are automatically uploaded to the `Burbio Assessment Corey J Spreadsheet`.
 
 ### 📝 3. Consolidate and Create the Pivot Table
-- Open the Google Apps Script editor (**Extensions > Apps Script**) inside your Google Sheet.
-- Run the `consolidateAllSheets()` script:
-
-```javascript
-function consolidateAllSheets() {
-  // Your Apps Script code here
-}
-```
----
-
-This script:
-- Merges all state tabs into one Master tab.
-- Drops the first two rows from each imported sheet (headers).
-- Adds a column labeling each row with its state.
-
-The pivot table summarizing total grant funding by state was created manually using Google Sheets' built-in pivot table tool.  
-It is saved in the "Pivot" sheet.
-
----
+- Open the Google Apps Script editor (Extensions > Apps Script) inside your Google Sheet.
+- Run the consolidateAllSheets() script.
+- This script:
+-- Merges all state tabs into one Master tab.
+--Drops the first two rows from each imported sheet (headers).
+--Adds a column labeling each row with its state.
+- The pivot table summarizing total grant funding by state was created manually using Google Sheets' built-in pivot table tool, and is saved in the Pivot tab.
 
 
 ## 📊 Analysis
